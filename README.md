@@ -1,5 +1,9 @@
 # microscope automation
 
+##### key libraries: 
+* [pymmcore-plus](https://pymmcore-plus.github.io/pymmcore-plus/)
+* [pyqtgraph](https://www.pyqtgraph.org/)
+
 Contact: Olyssa Sperling (olyssa.sperling@gmx.de) <br/>
 Supervisors: Andrew Plested & Thomas Korte <br/>
 Field of study: Biophysics <br/>
