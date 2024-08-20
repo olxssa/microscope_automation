@@ -15,3 +15,4 @@ Outline:
 4. [stitching of multi-tile images](https://github.com/olxssa/microscope_automation/blob/master/4_stitching.ipynb)
 5. [multi-well scan](https://github.com/olxssa/microscope_automation/blob/master/5_multi_well_scan.ipynb)
 6. [plate calibration](https://github.com/olxssa/microscope_automation/blob/master/6_plate_calibration.ipynb)
+7. [GUI creation](https://github.com/olxssa/microscope_automation/blob/master/7_GUI.ipynb)
