@@ -45,6 +45,7 @@ class MainWindow(qtw.QWidget):
                                   suffix = ' Order')
         self.layout().addWidget(spin)
 
+
         # create a button
         button = qtw.QPushButton('Press me!', clicked = lambda: press_it())
         self.layout().addWidget(button)
