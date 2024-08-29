@@ -2,7 +2,7 @@
 
 ##### key libraries: 
 * [pymmcore-plus](https://pymmcore-plus.github.io/pymmcore-plus/)
-* [pyqtgraph](https://www.pyqtgraph.org/)
+* [pyqt]((https://wiki.python.org/moin/PyQt)
 
 Contact: Olyssa Sperling (olyssa.sperling@gmx.de) <br/>
 Supervisors: Andrew Plested & Thomas Korte <br/>
